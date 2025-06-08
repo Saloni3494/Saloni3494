@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saloni Tanmor</h1>
 <h3 align="center">Innovator | Tech Explorer | AI & Neuroscience Enthusiast</h3>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saloni3494&label=Profile%20views&color=0e75b6&style=flat" alt="Saloni3494" />
-</p>
+</p> -->
 
 ---
 
@@ -91,7 +92,7 @@
 
 ###
 
-
+<!--
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Saloni3494&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Saloni's GitHub Stats" />
 </p>
@@ -113,7 +114,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Saloni3494&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
+-->
 
 ---
 
