@@ -93,8 +93,10 @@
 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Saloni3494&show_icons=true&theme=radical" alt="Saloni's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saloni3494&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Saloni's GitHub Stats" />
 </p>
+
+
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saloni3494&layout=compact&theme=radical" alt="Top Languages" />
