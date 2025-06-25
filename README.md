@@ -19,8 +19,7 @@
 ---
 
 ### 🌱 2025 Goals  
-- ✅ Design innovative tech that solves **real-world problems**  
-- 💻 Crack the **Google STEP Internship**  
+- ✅ Design innovative tech that solves **real-world problems**   
 - 📚 Deep dive into **BCI**, **ML/DL**, and **Edge AI**  
 
 ---
