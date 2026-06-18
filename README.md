@@ -6,8 +6,11 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-1670+-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](#)
 [![DSA](https://img.shields.io/badge/DSA-450%2B%20Problems-blue?style=for-the-badge)](#)
-[![SIH Finalist](https://img.shields.io/badge/SIH%202025-Grand%20Finalist-0A66C2?style=for-the-badge)](#)
+[![SIH](https://img.shields.io/badge/SIH%202025-Grand%20Finalist-0A66C2?style=for-the-badge)](#)
 [![CGPA](https://img.shields.io/badge/CGPA-9.17-success?style=for-the-badge)](#)
+
+[![GSSoC](https://img.shields.io/badge/GSSoC'24-Open%20Source%20Contributor-FF69B4?style=for-the-badge)](#)
+[![IITG](https://img.shields.io/badge/IIT%20Guwahati%20x%20HackerEarth-Summer%20Analytics%20Trainee-4285F4?style=for-the-badge)](#)
 
 </div>
 
@@ -19,17 +22,19 @@ Most developers build applications.
 
 I enjoy building the systems behind them.
 
-I'm a penultimate-year Information Technology student at **VIT Pune**, passionate about:
+I'm a penultimate-year Information Technology student at **Vishwakarma Institute of Technology (VIT Pune)**, passionate about building **distributed systems, AI-powered applications, and scalable software**.
 
-* Distributed Systems
-* Artificial Intelligence
-* System Design
-* Competitive Programming
-* Scalable Infrastructure
+My journey combines:
+
+* 💻 Competitive Programming (450+ DSA problems, LeetCode 1670)
+* 🚀 National-Level Hackathons (SIH 2025 Grand Finalist)
+* 🌱 Open Source Contributions (GSSoC'24 Contributor)
+* 📊 Data Science & Analytics (Summer Analytics Trainee at IIT Guwahati × HackerEarth)
+* 🤖 AI/ML & Distributed Systems Engineering
 
 My goal is simple:
 
-> Design systems that are intelligent, reliable, and capable of serving millions of users.
+> Design intelligent, reliable, and scalable systems that create meaningful impact at scale.
 
 ---
 
@@ -65,21 +70,28 @@ My goal is simple:
 
 ---
 
-## 🏆 Highlights
+## 🌟 Experience Snapshot
 
-🥇 Winner — DIAT DRDO Track, CodeVerse 2025 (500+ teams)
+### Summer Analytics Trainee
 
-🚀 Smart India Hackathon 2025 Grand Finalist (69,000+ teams)
+**IIT Guwahati × HackerEarth**
 
-💻 Solved 450+ DSA Problems
+* Building end-to-end Machine Learning and Analytics pipelines
+* Applying feature engineering and model optimization techniques
+* Developing dashboards, visualization systems, and data-driven solutions
+* Working alongside a national cohort of analytics enthusiasts
 
-📈 LeetCode Peak Rating: 1670
+### Open Source Contributor
 
-🎓 CGPA: 9.17
+**GirlScript Summer of Code (GSSoC'24)**
 
-☁️ Google Cloud Arcade Advanced Milestone
+* Contributed to open-source projects
+* Collaborated with maintainers and developers across the community
+* Improved code quality, documentation, and project functionality
+* Strengthened software engineering and collaborative development skills
 
 ---
+
 
 ## 🧠 Engineering Philosophy
 
