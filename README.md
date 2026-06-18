@@ -92,6 +92,60 @@ My goal is simple:
 
 ---
 
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,go" />
+</p>
+
+### Distributed Systems & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,flask,docker" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
+
+### Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feast-4285F4?style=for-the-badge"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,git,github,docker" />
+</p>
+
+### Core Engineering Interests
+
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-blue?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-orange?style=for-the-badge)
+![Concurrency](https://img.shields.io/badge/Concurrency-green?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-red?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-purple?style=for-the-badge)
+![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-black?style=for-the-badge)
+
+
 
 ## 🧠 Engineering Philosophy
 
